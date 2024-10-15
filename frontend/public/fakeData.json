@@ -1,0 +1,310 @@
+{
+    "riddles": [
+        {
+            "id": "001",
+            "question": "What has a head, a tail, is brown, and has no legs?",
+            "answer": "penny",
+            "reason": "A penny has a head and a tail, is brown in color, and has no legs."
+        },
+        {
+            "id": "002",
+            "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+            "answer": "echo",
+            "reason": "An echo reflects sound without physical form."
+        },
+        {
+            "id": "003",
+            "question": "The person who makes it sells it. The person who buys it never uses it. The person who uses it never knows they're using it. What is it?",
+            "answer": "coffin",
+            "reason": "A coffin is made by someone, bought for someone else, and used after death."
+        },
+        {
+            "id": "004",
+            "question": "What can fill a room but takes up no space?",
+            "answer": "light",
+            "reason": "Light illuminates a room without taking up physical space."
+        },
+        {
+            "id": "005",
+            "question": "What has four fingers and a thumb, but isn’t alive?",
+            "answer": "glove",
+            "reason": "A glove has the shape of a hand with fingers and a thumb but isn't a living thing."
+        },
+        {
+            "id": "006",
+            "question": "I am taken from a mine and shut up in a wooden case, from which I am never released. What am I?",
+            "answer": "pencil",
+            "reason": "Graphite is mined and encased in wood to form a pencil."
+        },
+        {
+            "id": "007",
+            "question": "The more you have of it, the less you see. What is it?",
+            "answer": "darkness",
+            "reason": "As darkness increases, visibility decreases."
+        },
+        {
+            "id": "008",
+            "question": "What gets wetter as it dries?",
+            "answer": "towel",
+            "reason": "A towel absorbs water as it dries something else."
+        },
+        {
+            "id": "009",
+            "question": "What has keys but can’t open locks?",
+            "answer": "piano",
+            "reason": "A piano has keys but they are used to make music, not unlock things."
+        },
+        {
+            "id": "010",
+            "question": "What runs but never walks, has a mouth but never talks?",
+            "answer": "river",
+            "reason": "A river runs and has a mouth where it meets the ocean, but it doesn’t speak."
+        },
+        {
+            "id": "011",
+            "question": "What has one eye but can’t see?",
+            "answer": "needle",
+            "reason": "A needle has an eye for threading, but it cannot see."
+        },
+        {
+            "id": "012",
+            "question": "The more you take, the more you leave behind. What are they?",
+            "answer": "footsteps",
+            "reason": "Each step taken leaves more footprints behind."
+        },
+        {
+            "id": "013",
+            "question": "What can go up a chimney down but not down a chimney up?",
+            "answer": "umbrella",
+            "reason": "An open umbrella can fit up a chimney when closed but not the other way around."
+        },
+        {
+            "id": "014",
+            "question": "I’m light as a feather, yet the strongest person can’t hold me for more than a few minutes. What am I?",
+            "answer": "breath",
+            "reason": "Even though air is light, holding your breath for too long is impossible."
+        },
+        {
+            "id": "015",
+            "question": "What has many keys but can’t open a single lock?",
+            "answer": "keyboard",
+            "reason": "A keyboard has multiple keys used for typing, not for unlocking anything."
+        },
+        {
+            "id": "016",
+            "question": "You measure my life in hours, and I serve you by expiring. I’m quick when I’m thin and slow when I’m fat. What am I?",
+            "answer": "candle",
+            "reason": "A candle burns faster when it’s thin and slower when it’s thick."
+        },
+        {
+            "id": "017",
+            "question": "Forward I am heavy, but backward I am not. What am I?",
+            "answer": "ton",
+            "reason": "The word 'ton' is heavy, but reversed, it spells 'not.'"
+        },
+        {
+            "id": "018",
+            "question": "I shave every day, but my beard stays the same. What am I?",
+            "answer": "barber",
+            "reason": "A barber shaves others but doesn’t shave his own beard."
+        },
+        {
+            "id": "019",
+            "question": "What begins with an E, ends with an E, but only has one letter?",
+            "answer": "envelope",
+            "reason": "An envelope starts and ends with the letter E and contains a single letter inside."
+        },
+        {
+            "id": "020",
+            "question": "What has a heart that doesn’t beat?",
+            "answer": "artichoke",
+            "reason": "An artichoke has a heart, but it is not alive, so it doesn’t beat."
+        },
+        {
+            "id": "021",
+            "question": "What disappears the moment you say its name?",
+            "answer": "silence",
+            "reason": "Silence vanishes when you speak, as the act of talking breaks it."
+        },
+        {
+            "id": "022",
+            "question": "I am taken from Earth, and when put in water, I die. What am I?",
+            "answer": "salt",
+            "reason": "Salt is extracted from the Earth, but dissolves when placed in water."
+        },
+        {
+            "id": "023",
+            "question": "A man was born in 1955 and died in 1955 at the age of 50. How is this possible?",
+            "answer": "hospital room",
+            "reason": "He was born in hospital room 1955, not the year 1955."
+        },
+        {
+            "id": "024",
+            "question": "I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",
+            "answer": "map",
+            "reason": "A map represents lakes, mountains, and cities but contains none of them physically."
+        },
+        {
+            "id": "025",
+            "question": "What five-letter word becomes shorter when you add two letters to it?",
+            "answer": "short",
+            "reason": "Adding 'er' to the word 'short' makes it 'shorter,' while paradoxically lengthening it."
+        },
+        {
+            "id": "026",
+            "question": "The more you have of it, the less you see. What is it?",
+            "answer": "fog",
+            "reason": "Fog obstructs visibility, making it harder to see the more there is."
+        },
+        {
+            "id": "027",
+            "question": "What comes once in a second, twice in a decade, but never in a century?",
+            "answer": "e",
+            "reason": "The letter 'E' appears once in 'second', twice in 'decade', and never in 'century'."
+        },
+        {
+            "id": "028",
+            "question": "Two fathers and two sons went fishing. They each caught one fish, but there were only three fish in total. How is this possible?",
+            "answer": "three generations",
+            "reason": "There were three people: a grandfather, his son, and his grandson—two fathers and two sons."
+        },
+        {
+            "id": "029",
+            "question": "You see a house with four walls, all facing south. A bear walks by. What color is the bear?",
+            "answer": "white",
+            "reason": "The house is at the North Pole, where the only bears are polar bears, which are white."
+        },
+        {
+            "id": "033",
+            "question": "What belongs to you, but others use it more than you do?",
+            "answer": "name",
+            "reason": "Other people call you by your name more than you say it yourself."
+        },
+        {
+            "id": "037",
+            "question": "What is always in front of you but can’t be seen?",
+            "answer": "future",
+            "reason": "The future is always ahead but remains unseen."
+        },
+        {
+            "id": "040",
+            "question": "What can you hold in your right hand, but never in your left?",
+            "answer": "left hand",
+            "reason": "You cannot hold your left hand using your left hand."
+        },
+        {
+            "id": "041",
+            "question": "I have no wings, but I can fly. I have no eyes, but I will cry. What am I?",
+            "answer": "cloud",
+            "reason": "Clouds move through the sky and release rain like tears."
+        },
+        {
+            "id": "042",
+            "question": "What is always coming, but never arrives?",
+            "answer": "tomorrow",
+            "reason": "Tomorrow never arrives because it's always the next day."
+        },
+        {
+            "id": "043",
+            "question": "I have hundreds of ears, but I can’t hear. What am I?",
+            "answer": "corn",
+            "reason": "Corn has ears (the part of the plant), but cannot hear."
+        },
+        {
+            "id": "044",
+            "question": "If you drop me, I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+            "answer": "mirror",
+            "reason": "A mirror reflects a smile but can crack if dropped."
+        },
+        {
+            "id": "045",
+            "question": "What comes down but never goes up?",
+            "answer": "rain",
+            "reason": "Rain falls to the ground but never ascends back to the sky."
+        },
+        {
+            "id": "046",
+            "question": "What has a neck but no head, two arms but no hands?",
+            "answer": "shirt",
+            "reason": "A shirt has parts called a neck and arms but lacks a head and hands."
+        },
+        {
+            "id": "047",
+            "question": "I am not alive, but I can grow. I don’t have lungs, but I need air. What am I?",
+            "answer": "fire",
+            "reason": "A fire grows and needs oxygen to burn, even though it’s not alive."
+        },
+        {
+            "id": "048",
+            "question": "The more you take from me, the bigger I get. What am I?",
+            "answer": "hole",
+            "reason": "Removing more material from a hole increases its size."
+        },
+        {
+            "id": "049",
+            "question": "I turn once, what is out will not get in. I turn again, what is in will not get out. What am I?",
+            "answer": "key",
+            "reason": "A key locks and unlocks doors, controlling what enters or exits."
+        },
+        {
+            "id": "051",
+            "question": "What has to be broken before you can use it?",
+            "answer": "egg",
+            "reason": "An egg must be cracked open before it can be used."
+        },
+        {
+            "id": "052",
+            "question": "I am invisible, weigh nothing, but when put in a barrel, I make it lighter. What am I?",
+            "answer": "hole",
+            "reason": "A hole in a barrel reduces its weight by removing material."
+        },
+        {
+            "id": "053",
+            "question": "If two’s company, and three’s a crowd, what are four and five?",
+            "answer": "nine",
+            "reason": "Mathematically, 4 + 5 equals 9."
+        },
+        {
+            "id": "054",
+            "question": "I am a number. When you add the letter G to me, I become something to eat. What am I?",
+            "answer": "eight",
+            "reason": "The word 'eight' becomes 'g' + 'eight,' which forms 'gate.'"
+        },
+        {
+            "id": "055",
+            "question": "What word looks the same upside down and backward?",
+            "answer": "noon",
+            "reason": "'Noon' reads the same forwards, backwards, and upside down."
+        },
+        {
+            "id": "056",
+            "question": "The more you take, the more you leave behind. What are they?",
+            "answer": "footsteps",
+            "reason": "Every step leaves a footprint behind."
+        },
+        {
+            "id": "057",
+            "question": "You see it once in June, twice in November, but not at all in May. What is it?",
+            "answer": "e",
+            "reason": "The letter 'E' appears once in 'June' and twice in 'November.'"
+        },
+        {
+            "id": "058",
+            "question": "I can be cracked, made, told, and played. What am I?",
+            "answer": "joke",
+            "reason": "A joke can be told, made, cracked, or played for humor."
+        },
+        {
+            "id": "059",
+            "question": "What gets bigger the more you take away from it?",
+            "answer": "hole",
+            "reason": "The more material you remove from a hole, the larger it gets."
+        },
+        {
+            "id": "060",
+            "question": "I am not alive, but I grow; I don’t have lungs, but I need air. What am I?",
+            "answer": "fire",
+            "reason": "Fire needs oxygen to grow and spread, but it is not alive."
+        }
+    ]
+}

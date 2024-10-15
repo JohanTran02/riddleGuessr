@@ -1,22 +1,23 @@
-import { main } from "./index"
+import { useEffect, useState } from "react";
+
+import RiddlesList from "./riddles/RiddlesList"
 
 function App() {
+  const [guessCount, setGuessCount] = useState(4);
+  const [gameState, setGameState] = useState<"active" | "inactive">("active");
+  const [show, setShow] = useState<string[]>([])
+
+  useEffect(() => {
+    if (guessCount === 0) setGameState("inactive");
+    if (show.length === 10) setGameState("inactive")
+  }, [guessCount, show.length])
 
   return (
-    <>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => main()}>
-
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+    <div className="min-h-screen flex justify-center items-center">
+      <div>
+        <RiddlesList setGuessCount={setGuessCount} guessCount={guessCount} gameState={gameState} setShow={setShow} show={show} setGameState={setGameState} />
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </div>
   )
 }
 
