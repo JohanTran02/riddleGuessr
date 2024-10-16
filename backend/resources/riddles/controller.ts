@@ -10,7 +10,7 @@ const systemPrompt = `You are an expert puzzle maker. You create challenging and
 const userPrompt = `Generate a JSON with 10 cognitive problems that can include any combination of riddles, logical problems, and brain teasers. Each problem should have the following properties:
 - id: a unique identifier.
 - question: the problem question (keep it brief).
-- answer: a unique answer.
+- answer: one word, a unique answer.
 - reason: a brief explanation (1 sentence max).
 Avoid discriminatory, religious, political, or harmful content. Ensure that the questions are challenging and vary in problem type.`;
 

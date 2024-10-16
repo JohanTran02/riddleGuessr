@@ -54,8 +54,8 @@ export default function RiddlesList({ setGuessCount, guessCount, gameState, show
         const fetchRiddles = async () => {
             setLoading(true);
             try {
-                // const response = await fetch('http://localhost:3000/api/riddles', { method: "POST" });
-                const response = await fetch("fakeData.json")
+                const response = await fetch('http://localhost:3000/api/riddles', { method: "POST" });
+                // const response = await fetch("fakeData.json")
 
                 if (!response.ok) {
                     throw new CustomError('Network response was not ok', 400);
