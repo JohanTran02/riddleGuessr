@@ -1,19 +1,19 @@
 # RiddleGuessr
 
-## Beskrivning
+## Description
 
-**RiddleGuessr** är ett spel som utmanar användare med gåtor, tankeknep och logiska problem. Användare får poäng för korrekta svar, och en sammanfattning av deras prestationer ges efter varje runda.
+**RiddleGuessr** is a game that challenges users with riddles, brain teasers, and logical problems. Users earn points for correct answers, and a summary of their performance is provided after each round.
 
 ## Installation
 
-### Steg 1: Klona repository
+### Step 1: Clone the repository
 
 ```shell
 git clone https://github.com/JohanTran02/riddleGuessr
 cd riddleGuessr
 ```
 
-### Steg 2: Installera nödvändiga paket
+### Step 2: Install necessary packages
 
 #### Backend
 
@@ -29,40 +29,40 @@ cd frontend
 npm i
 ```
 
-### Steg 3: Lägg till .env-fil
+### Step 3: Add .env file
 
-Skapa en ny fil med namnet `.env` i rooten av backend-mappen och lägg till följande rad:
+Create a new file named `.env` in the root of the backend directory and add the following line:
 
 ```shell
 OPENAI_API_KEY = "sk-..."
 ```
 
-## Användning
+## Usage
 
-### Steg 1: Starta backend-servern
+### Step 1: Start the backend server
 
-Öppna en terminal och kör följande kommando:
+Open a terminal and run the following command:
 
 ```shell
 npm run server
 ```
 
-### Steg 2: Starta frontend-sidan
+### Step 2: Start the frontend
 
-Öppna en ny terminal och kör följande kommando:
+Open a new terminal and run the following command:
 
 ```shell
 npm run dev
 ```
 
-### Steg 3: Öppna webbläsaren
+### Step 3: Open the web browser
 
-Öppna en webbläsare och gå till `http://localhost:3000`
+Open a web browser and go to `http://localhost:3000`
 
-### Steg 4: Använd tjänsten
+### Step 4: Use the service
 
-Användaren kan sedan börja gissa på gåtor och lösa problem med hjälp av tjänsten genom att skriva i textrutan och trycka på "Enter".
+The user can then start guessing riddles and solving problems using the service by typing in the text box and pressing "Enter".
 
-### Steg 5: Se sammanfattning
+### Step 5: View summary
 
-När användaren har gissat alla rätt, använt alla chanser eller klickat på `Give up` kommer en ruta att visas med en sammanfattning av deras poäng och resonemang för varje gåta.
+When the user has guessed all correctly, used up all chances, or clicked on `Give up`, a box will appear with a summary of their points and reasoning for each riddle.
